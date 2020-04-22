@@ -1,0 +1,296 @@
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>name</th>
+      <th>brand</th>
+      <th>price</th>
+      <th>discount</th>
+      <th>reviews</th>
+      <th>rating</th>
+      <th>actual_rating</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>Ruhr Gold Gold Beer - 330ml (24 Pcs).</td>
+      <td>Ruhr Gold</td>
+      <td>1250.0</td>
+      <td>0.64</td>
+      <td>109</td>
+      <td>4.6</td>
+      <td>4.57</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>Kabras Premium White Sugar - 2kg</td>
+      <td>Kabras</td>
+      <td>198.0</td>
+      <td>0.14</td>
+      <td>1033</td>
+      <td>4.5</td>
+      <td>4.50</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Ajab All-Purpose Fortified Wheat Flour 2Kg</td>
+      <td>Ajab</td>
+      <td>113.0</td>
+      <td>0.05</td>
+      <td>31</td>
+      <td>4.7</td>
+      <td>4.60</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Omo Hand Washing Powder Extra Fresh - 3.5kg</td>
+      <td>Omo</td>
+      <td>665.0</td>
+      <td>0.30</td>
+      <td>64</td>
+      <td>4.8</td>
+      <td>4.75</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>Moloca 3 Ply Surgical Masks 40 Pieces - Blue</td>
+      <td>Moloca</td>
+      <td>2999.0</td>
+      <td>0.00</td>
+      <td>2</td>
+      <td>5.0</td>
+      <td>4.00</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>Dairy Dairy Top Milk 500ml-A  Pack of 12 Pieces</td>
+      <td>Dairy</td>
+      <td>470.0</td>
+      <td>0.22</td>
+      <td>194</td>
+      <td>4.6</td>
+      <td>4.58</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>Generic White Washable And Reusable Face Masks With Ear Loops</td>
+      <td>Generic</td>
+      <td>80.0</td>
+      <td>0.20</td>
+      <td>14</td>
+      <td>3.4</td>
+      <td>3.35</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>Lifebuoy Antibacterial Hand Sanitizer - 50ml</td>
+      <td>Lifebuoy</td>
+      <td>135.0</td>
+      <td>0.10</td>
+      <td>157</td>
+      <td>4.4</td>
+      <td>4.38</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>Generic Reusable/Washable Face Masks</td>
+      <td>Generic</td>
+      <td>110.0</td>
+      <td>0.12</td>
+      <td>5</td>
+      <td>4.0</td>
+      <td>3.71</td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>Blue Band Margarine - 1kg</td>
+      <td>Blue Band</td>
+      <td>260.0</td>
+      <td>0.21</td>
+      <td>318</td>
+      <td>4.5</td>
+      <td>4.49</td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td>Peptang Tomato Paste Pouch - 70g</td>
+      <td>Peptang</td>
+      <td>27.0</td>
+      <td>0.00</td>
+      <td>8</td>
+      <td>3.9</td>
+      <td>3.72</td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <td>Kabras Sugar - 2kg.</td>
+      <td>Kabras</td>
+      <td>201.0</td>
+      <td>0.00</td>
+      <td>375</td>
+      <td>4.5</td>
+      <td>4.49</td>
+    </tr>
+    <tr>
+      <th>12</th>
+      <td>Aquamist Water - 18.5 Litres - Disposable Bottle</td>
+      <td>Aquamist</td>
+      <td>371.0</td>
+      <td>0.26</td>
+      <td>375</td>
+      <td>4.5</td>
+      <td>4.49</td>
+    </tr>
+    <tr>
+      <th>13</th>
+      <td>Moloca 3 Ply Surgical Masks 10 Pieces - Blue</td>
+      <td>Moloca</td>
+      <td>999.0</td>
+      <td>0.00</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>3.00</td>
+    </tr>
+    <tr>
+      <th>14</th>
+      <td>Ola Cool Crunch Tortilla Chips - 40g</td>
+      <td>Ola</td>
+      <td>48.0</td>
+      <td>0.00</td>
+      <td>5</td>
+      <td>4.6</td>
+      <td>4.14</td>
+    </tr>
+    <tr>
+      <th>15</th>
+      <td>Nice &amp; Lovely Hand Sanitizing Gel - 65 Ml</td>
+      <td>Nice &amp;amp; Lovely</td>
+      <td>123.0</td>
+      <td>0.05</td>
+      <td>51</td>
+      <td>4.4</td>
+      <td>4.35</td>
+    </tr>
+    <tr>
+      <th>16</th>
+      <td>Generic 5-Layer Kn95 Civilian Mask With Breathing Valve Filter Efficiency Filtration</td>
+      <td>Generic</td>
+      <td>314.0</td>
+      <td>0.29</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>3.00</td>
+    </tr>
+    <tr>
+      <th>17</th>
+      <td>Nutrameal Sugar - 2kg</td>
+      <td>Nutrameal</td>
+      <td>206.0</td>
+      <td>0.00</td>
+      <td>167</td>
+      <td>4.6</td>
+      <td>4.58</td>
+    </tr>
+    <tr>
+      <th>18</th>
+      <td>Generic 2pcs Reusable Washable Protective 3-Layer Face Mask</td>
+      <td>Generic</td>
+      <td>338.0</td>
+      <td>0.44</td>
+      <td>41</td>
+      <td>3.5</td>
+      <td>3.48</td>
+    </tr>
+    <tr>
+      <th>19</th>
+      <td>Jumia Chakula Box (One Click, One Delivery)</td>
+      <td>Jumia</td>
+      <td>1499.0</td>
+      <td>0.00</td>
+      <td>11</td>
+      <td>4.0</td>
+      <td>3.85</td>
+    </tr>
+    <tr>
+      <th>20</th>
+      <td>Jogoo Maize Meal  - 2kg</td>
+      <td>Jogoo</td>
+      <td>122.0</td>
+      <td>0.00</td>
+      <td>570</td>
+      <td>4.4</td>
+      <td>4.40</td>
+    </tr>
+    <tr>
+      <th>21</th>
+      <td>Knorr Soft Cube Beef Seasoning 6's.</td>
+      <td>Knorr</td>
+      <td>75.0</td>
+      <td>0.17</td>
+      <td>51</td>
+      <td>4.5</td>
+      <td>4.44</td>
+    </tr>
+    <tr>
+      <th>22</th>
+      <td>Nutrameal Natural Wholesome Sugar - 1Kg</td>
+      <td>Nutrameal</td>
+      <td>98.0</td>
+      <td>0.01</td>
+      <td>35</td>
+      <td>4.6</td>
+      <td>4.51</td>
+    </tr>
+    <tr>
+      <th>23</th>
+      <td>Mr Muscle Bathroom Care Trigger (UK) 750ml</td>
+      <td>Mr Muscle</td>
+      <td>342.0</td>
+      <td>0.35</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>3.00</td>
+    </tr>
+    <tr>
+      <th>24</th>
+      <td>Peptang Beans In Tomato Sauce 1M – 420g</td>
+      <td>Peptang</td>
+      <td>108.0</td>
+      <td>0.00</td>
+      <td>19</td>
+      <td>4.1</td>
+      <td>4.00</td>
+    </tr>
+    <tr>
+      <th>25</th>
+      <td>Pembe Maize Meal Fortified With Vitamins And Minerals - 2Kg</td>
+      <td>Pembe</td>
+      <td>120.0</td>
+      <td>0.02</td>
+      <td>77</td>
+      <td>4.7</td>
+      <td>4.66</td>
+    </tr>
+    <tr>
+      <th>26</th>
+      <td>Coke Soda Can - 330ml</td>
+      <td>Coke</td>
+      <td>53.0</td>
+      <td>0.00</td>
+      <td>17</td>
+      <td>4.6</td>
+      <td>4.43</td>
+    </tr>
+    <tr>
+      <th>27</th>
+      <td>Exe Chapati Fortified Wheat Flour - 2Kg</td>
+      <td>Exe</td>
+      <td>121.0</td>
+      <td>0.00</td>
+      <td>91</td>
+      <td>4.7</td>
+      <td>4.66</td>
+    </tr>
+  </tbody>
+</table>
